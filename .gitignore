@@ -1,0 +1,51 @@
+=========================
+OS files
+=========================
+.DS_Store
+Thumbs.db
+
+=========================
+Editors / IDEs
+=========================
+.vscode/
+.idea/
+
+=========================
+Simulation (ModelSim / Questa)
+=========================
+work/
+transcript
+vsim.wlf
+*.log
+*.jou
+*.pb
+*.wlf
+
+=========================
+Quartus / FPGA build files
+=========================
+db/
+incremental_db/
+output_files/
+*.rpt
+*.summary
+*.smsg
+*.qws
+*.qdf
+*.qpf.bak
+*.qsf.bak
+
+=========================
+Generated files
+=========================
+*.hex
+*.mif
+*.sof
+*.pof
+
+=========================
+Backup / temp
+=========================
+*~
+*.bak
+*.tmp
